@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-void main ()
+int main ()
 {
     int a=0, b=0;
     printf ("Ingrese el primer valor ");//Debo respetar los espacios entre las comillas
